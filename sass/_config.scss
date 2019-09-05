@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'evolventa';
+      src: url("../fonts/evolventa.ttf");
+}
+
+$main_font: "evolventa", sans-serif;
+
+$main_color: #fff;
+$primary_color: #cbe9ff;
+$text_shadow_color: rgba(23,190,206,0.98);
+
+$frame_color : #d3ebfe;
+
+
+$z_index_second_wave: -10;
+$z_index_main_wave: -5;
+$z_index_star: -3;
+$z_index_bubble_sample: 1;
+$z_index_bubble_shadow-md: 2;
+$z_index_bubble_shadow-sm: 3; 
+$z_index_bubble_frame: 4;
+$z_index_bubble_ring: 5;
+$z_index_bubble_sm: 6;
+
+$font_size_main: 1.2vw;
+$font_size_primary: 2vw;
